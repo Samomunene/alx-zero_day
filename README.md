@@ -1,1 +1,1 @@
-Repository for my zero day
+Edited readme note
